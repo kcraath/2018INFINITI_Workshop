@@ -12,7 +12,7 @@ The materials (.ipynb files) can be copy and pasted into R or RStudio (instructi
 
 <a id="note2" href="#note2ref"><sup>2</sup></a> Instructions for Mac Users: 
 
-To Install R
+To Install R:
 1. Go to www.r-project.org.
 2. Click the "download R" link in the middle of the page under "Getting Started."
 3. Select a CRAN location (a mirror site) and click the corresponding link.
@@ -22,7 +22,7 @@ To Install R
 
 Now that R is installed, you need to download and install RStudio.
 
-To Install RStudio
+To Install RStudio:
 1. Go to www.rstudio.com and click on the "Download RStudio" button.
 2. Click on "Download RStudio Desktop."
 3. Click on the version recommended for your system, or the latest Mac version, save the .dmg file on your computer, double-click it to open, and then drag and drop it to your applications folder.
@@ -39,7 +39,7 @@ To Install R:
 
 Now that R is installed, you need to download and install RStudio. 
 
-To Install RStudio
+To Install RStudio:
 1. Go to www.rstudio.com and click on the "Download RStudio" button.
 2. Click on "Download RStudio Desktop."
 3. Click on the version recommended for your system, or the latest Windows version, and save the executable file.  Run the .exe file and follow the installation instructions.     
