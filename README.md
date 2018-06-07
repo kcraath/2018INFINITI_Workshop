@@ -4,7 +4,7 @@ Common behaviors or patterns in jointly stationary time series can be identified
 
 ### This repository contains materials for my 2018 INFINITI Conference Workshop
 
-The materials (.ipynb files) can be copy and pasted into R or RStudio (instructions below<a href="#note2" id="note2ref"><sup>2</sup></a>) or can be download as Jupyter notebooks (to be run with the "IR" kernel -- https://irkernel.github.io/).
+The materials (.ipynb files) can be directly selected and copy/pasted into R or RStudio (installation instructions below<a href="#note2" id="note2ref"><sup>2</sup></a>) or can be download as Jupyter notebooks (to be run with the "IR" kernel -- https://irkernel.github.io/). The latter is more complicated and I would advice this only for those who have worked with these types of tools before. RStudio is very accessible with a lot of online references and help - starting there would be my best advise.  
 
 Go to the [Welcome and Introduction](https://github.com/kcraath/2018INFINITI_Workshop/blob/master/Welcome%20and%20Introduction%20.ipynb) to start the workshop. 
 
