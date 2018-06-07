@@ -6,6 +6,8 @@ Common behaviors or patterns in jointly stationary time series can be identified
 
 The materials (.ipynb files) can be copy and pasted into R or RStudio (instructions below<a href="#note2" id="note2ref"><sup>2</sup></a>) or can be download as Jupyter notebooks (to be run with the "IR" kernel -- https://irkernel.github.io/).
 
+Go to the [Welcome and Introduction](https://github.com/kcraath/2018INFINITI_Workshop/blob/master/Welcome%20and%20Introduction%20.ipynb) to start the workshop. 
+
 #### Footnotes:
 
 <a id="note1" href="#note1ref"><sup>1</sup></a> We are currently collaborating with Dr. R. Benitez and Dr. V. Bolos in Valencia, Spain to create a comprehensive **R** package focused on the application of wavelets in finance and economics. 
